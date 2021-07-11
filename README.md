@@ -1,5 +1,5 @@
 # fisherman
-This is an R package which provides a blueprint for doing automated unit tests to verify the legitimacy of queries being served by an indexer.
+This is an R package which provides a blueprint for doing automated unit tests to verify the legitimacy of queries being served by an indexer on [The Graph](https://thegraph.com/).
 
 A subgraph can have data be served by many indexers, and anyone can act as a "fisherman" who submit proof of the data being served by a given indexer being innacurate, and are then given a reward from the funds the indexer has slashed.
 
